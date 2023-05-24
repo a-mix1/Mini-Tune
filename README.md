@@ -1,4 +1,4 @@
-*MiniTune*
+**MiniTune**
 
 
 MiniTune is a Chrome Extension that empowers users to change audio inputs in different tabs within the Google Chrome browser. This extension provides enhanced audio control and flexibility, allowing users to seamlessly switch between audio devices for a more personalized browsing experience.
