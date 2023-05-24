@@ -1,0 +1,16 @@
+{
+    "manifest_version": 2,
+    "name": "Audio Splitter",
+    "version": "0.0.1",
+    "description": "Control and split audio from multiple tabs.",
+    "permissions": [
+      "activeTab"
+    ],
+    "icons": {
+      "128": "icons/mic.png"
+    },
+    "browser_action": {
+      "default_popup": "index.html",
+      "default_title": "Audio Splitter"
+    }
+  }
