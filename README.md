@@ -17,12 +17,16 @@ Mini-Tune simplifies the process of switching audio inputs across different tabs
 Follow these steps to install Mini-Tune on your local machine:
 
 1. Clone or download the repository to your local machine.
+
+2. Extract the files.
    
-2. Open Google Chrome and navigate to chrome://extensions.
+3. Open your browser and type in  -  your browser's name: // extensions -  eg: chrome://extensions, brave://extensions 
 
-3. Enable the "Developer mode" toggle at the top right corner of the page.
+4. Enable the "Developer mode" toggle at the top right corner of the page.
 
-4. Click on the "Load unpacked" button and select the directory where you cloned or downloaded the extension.
+5. Click on the "Load unpacked" button and select the directory where you cloned or downloaded the extension.
+
+6. Select MiniTune-Master and select the "src" folder.
 
 The Mini-Tune Extension is now installed and ready to use.
 
