@@ -16,7 +16,7 @@ Mini-Tune simplifies the process of switching audio inputs across different tabs
 
 Follow these steps to install Mini-Tune on your local machine:
 
-1. Clone or download the repository to your local machine.
+1. Download the repository to your local machine.
 
 2. Extract the files.
    
